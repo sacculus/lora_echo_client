@@ -556,9 +556,6 @@ void setup() {
         }
         break;
     }
-    // /* For other unexpected cases */
-    // loop_state = STATE_DISPLAY;
-    // goToSleep(TIMER_DISPLAY_DURATION_MS, false, true);
 }
 
 void loop() {
